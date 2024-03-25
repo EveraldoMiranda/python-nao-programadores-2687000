@@ -5,6 +5,11 @@
 
 # Declare variáveis do tipo string
 
+Nome_Funcionário = "Everaldo Miranda"
+Salário = 1500.00
+Ganha_MaisDoisSalários = True
+
+
 # Declare variáveis de cada tipo numérico
 
 
